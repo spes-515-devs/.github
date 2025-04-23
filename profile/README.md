@@ -1,9 +1,9 @@
 # Xiaomi Redmi Note 11/NFC (spes/n) 5.15 Kernel Development  
 
 ### The Ported 5.15 Kernel source and device tree for Xiaomi Redmi Note 11/NFC (spes/n) is now available
-- **Current Status (as of 08 January 2025):**
-  - ROM does not boot due to encryption issues.
-  - Recovery mode works fine.
+- **Current Status (as of 23 April 2025):**
+  - ROM boots.
+  - Some fixes are needed.
   - Feel free to use the source for bring-up, and please give proper credits.
 - **Base Device Tree:** Taken from Topaz [Dblenk](https://github.com/boedhack99)
 - **Power Driver Refactor:** by [Murali](https://github.com/muralivijay)
